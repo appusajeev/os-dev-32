@@ -1,0 +1,15 @@
+int 40 - print char, dl = char
+int 41 - print str, si = string
+int 42 - clrscr
+int 43 - tohex, eax = number
+int 44 - getTime, eax = time
+int 45 - sleep, ebx = ms to sleep
+int 46 - read kbd, char in dl
+int 47 - exec, si = name of file, dh = len of filename
+
+
+
+
+
+
+
